@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Player\AssGuy.png</Source>
+      <Name>Player\AssGuy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mario\Documents\Visual Studio 2010\Projects\ASSPORTAL\ASSPORTAL\ASSPORTAL\bin\x86\Debug\Content\Player\AssGuy.xnb</Output>
+      <Time>2013-06-02T00:00:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>BG\Background.png</Source>
+      <Name>BG\Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mario\Documents\Visual Studio 2010\Projects\ASSPORTAL\ASSPORTAL\ASSPORTAL\bin\x86\Debug\Content\BG\Background.xnb</Output>
+      <Time>2013-06-01T22:46:56-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Etc\portalBullet.png</Source>
+      <Name>Etc\portalBullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mario\Documents\Visual Studio 2010\Projects\ASSPORTAL\ASSPORTAL\ASSPORTAL\bin\x86\Debug\Content\Etc\portalBullet.xnb</Output>
+      <Time>2013-06-02T00:12:28-04:00</Time>
+    </Item>
+    <Item>
+      <Source>BG\Background1.png</Source>
+      <Name>BG\Background1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mario\Documents\Visual Studio 2010\Projects\ASSPORTAL\ASSPORTAL\ASSPORTAL\bin\x86\Debug\Content\BG\Background1.xnb</Output>
+      <Time>2013-06-02T14:31:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>BG\Background2.png</Source>
+      <Name>BG\Background2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mario\Documents\Visual Studio 2010\Projects\ASSPORTAL\ASSPORTAL\ASSPORTAL\bin\x86\Debug\Content\BG\Background2.xnb</Output>
+      <Time>2013-06-02T14:34:36-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Etc\Enemy.png</Source>
+      <Name>Etc\Enemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mario\Documents\Visual Studio 2010\Projects\ASSPORTAL\ASSPORTAL\ASSPORTAL\bin\x86\Debug\Content\Etc\Enemy.xnb</Output>
+      <Time>2013-06-02T14:55:12-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\AssGuy_Final.png</Source>
+      <Name>Player\AssGuy_Final</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mario\Documents\Visual Studio 2010\Projects\ASSPORTAL\ASSPORTAL\ASSPORTAL\bin\x86\Debug\Content\Player\AssGuy_Final.xnb</Output>
+      <Time>2013-06-02T16:01:54-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Etc\MalwareLogo.png</Source>
+      <Name>Etc\MalwareLogo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mario\Documents\Visual Studio 2010\Projects\ASSPORTAL\ASSPORTAL\ASSPORTAL\bin\x86\Debug\Content\Etc\MalwareLogo.xnb</Output>
+      <Time>2013-06-02T19:10:06-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\ShieldPickUp.png</Source>
+      <Name>Items\ShieldPickUp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mario\Documents\Visual Studio 2010\Projects\ASSPORTAL\ASSPORTAL\ASSPORTAL\bin\x86\Debug\Content\Items\ShieldPickUp.xnb</Output>
+      <Time>2013-06-02T23:26:14-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Shield.png</Source>
+      <Name>Items\Shield</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mario\Documents\Visual Studio 2010\Projects\ASSPORTAL\ASSPORTAL\ASSPORTAL\bin\x86\Debug\Content\Items\Shield.xnb</Output>
+      <Time>2013-06-02T23:26:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>AssFont.spritefont</Source>
+      <Name>AssFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mario\Documents\Visual Studio 2010\Projects\ASSPORTAL\ASSPORTAL\ASSPORTAL\bin\x86\Debug\Content\AssFont.xnb</Output>
+      <Time>2013-06-02T16:37:24-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Mario\Documents\Visual Studio 2010\Projects\ASSPORTAL\ASSPORTAL\ASSPORTALContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Mario\Documents\Visual Studio 2010\Projects\ASSPORTAL\ASSPORTAL\ASSPORTAL\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Mario\Documents\Visual Studio 2010\Projects\ASSPORTAL\ASSPORTAL\ASSPORTALContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Mario\Documents\Visual Studio 2010\Projects\ASSPORTAL\ASSPORTAL\ASSPORTAL\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-02-10T20:40:27.5155085-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

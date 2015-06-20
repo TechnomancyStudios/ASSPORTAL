@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xrml="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <assemblyIdentity name="ASSPORTAL.application" version="1.0.0.2" publicKeyToken="b0d6688789032371" language="neutral" processorArchitecture="x86" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <description asmv2:publisher="ASSPORTAL" asmv2:product="ASSPORTAL" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <deployment install="true" mapFileExtensions="true">
+    <subscription>
+      <update>
+        <beforeApplicationStartup />
+      </update>
+    </subscription>
+    <deploymentProvider codebase="http://asliceofraspberrypi.com/downloads/ASSPORTAL/ASSPORTAL.application" />
+  </deployment>
+  <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
+    <framework targetVersion="4.0" profile="Client" supportedRuntime="4.0.30319" />
+    <framework targetVersion="4.0" profile="Full" supportedRuntime="4.0.30319" />
+  </compatibleFrameworks>
+  <dependency>
+    <dependentAssembly dependencyType="install" codebase="Application Files\ASSPORTAL_1_0_0_2\ASSPORTAL.exe.manifest" size="15584">
+      <assemblyIdentity name="ASSPORTAL.exe" version="1.0.0.2" publicKeyToken="b0d6688789032371" language="neutral" processorArchitecture="x86" type="win32" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>VcT6SvMgvw7Y2qOZV4Crit4PTqM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+<publisherIdentity name="CN=Mario-PC\Mario" issuerKeyHash="ad51b04fe062ef2cf61288e6e56045be4c3eb831" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>NZwvDlg3yFYuJlWtRAZsm7sYDUU=</DigestValue></Reference></SignedInfo><SignatureValue>iBisSTCRkfYjaNmFi0MFNq4amV8aTZGmleiFSPZJ6kkQt6dGCe9lU3JIO3YXAugC4hntfLSwMmr6FDX1l7kHotvitY8zUfkPp1CcFbDljUlEQzrBY//GEQqLx7JIBwLk3cXpOEf74H2nxWBdYursMxVXy2iX91O3RqcFwg1YyDU=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>mcxv6BJ+i9urUm9mxfugoNgsjRMVDYne5FfvCQ1XTk/3u/fxFVmVn/XTkKcxp+RZDS3Ph4hfPBF8qeWOb/7d3RP1pzcuDytx22TSzXiFMm8/CWt+TZM1LvtU1G0/qu+wrrJlttVb6ZKJbq79TjSEz5ylzvkw/n4lO850Y06SJHs=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="450d18bb9b6c0644ad55262e56c837580e2f9c35" Description="" Url=""><as:assemblyIdentity name="ASSPORTAL.application" version="1.0.0.2" publicKeyToken="b0d6688789032371" language="neutral" processorArchitecture="x86" xmlns="urn:schemas-microsoft-com:asm.v1" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Mario-PC\Mario</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>LSnpbJxWX7JGWLbf3fwGCU2K9Zo=</DigestValue></Reference></SignedInfo><SignatureValue>iUuuluxlqzzsoO/5yFeP2OQMN6U2kig8Kg8dUC4C9/jT3Vx20PE7kdTnpN9693eai8uGbv5MxxKnpheE+/hb+AHlucvStqO4FNohHVXgUG9/E03XDRBkf7M3SclJEILRHJCXz+Ch4u/l2+nH77jh5GmKDhcs2oZMv85f+Ru7Jhs=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>mcxv6BJ+i9urUm9mxfugoNgsjRMVDYne5FfvCQ1XTk/3u/fxFVmVn/XTkKcxp+RZDS3Ph4hfPBF8qeWOb/7d3RP1pzcuDytx22TSzXiFMm8/CWt+TZM1LvtU1G0/qu+wrrJlttVb6ZKJbq79TjSEz5ylzvkw/n4lO850Y06SJHs=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB0TCCATqgAwIBAgIQRx8BEyHqSp1P20+lINFCsTANBgkqhkiG9w0BAQUFADAnMSUwIwYDVQQDHhwATQBhAHIAaQBvAC0AUABDAFwATQBhAHIAaQBvMB4XDTEzMDYwMjE4MTEwNloXDTE0MDYwMzAwMTEwNlowJzElMCMGA1UEAx4cAE0AYQByAGkAbwAtAFAAQwBcAE0AYQByAGkAbzCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAmcxv6BJ+i9urUm9mxfugoNgsjRMVDYne5FfvCQ1XTk/3u/fxFVmVn/XTkKcxp+RZDS3Ph4hfPBF8qeWOb/7d3RP1pzcuDytx22TSzXiFMm8/CWt+TZM1LvtU1G0/qu+wrrJlttVb6ZKJbq79TjSEz5ylzvkw/n4lO850Y06SJHsCAwEAATANBgkqhkiG9w0BAQUFAAOBgQB6Hdtm8uKdYdJKaQED7EaN+NtEAruAdAPynDa8Koa66KhcgpfmC2jCusD8S0lQB7sP1dkqbzHRiVkF9FI17+yuIaoboZq5zzyjN1vntWRwYIuFMq4DIJfmb/TlLTbLOyzeGRD+5XjvlUQExFQ8z2q+pc7ZuV4M0kaYp6LxzFvRwA==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
